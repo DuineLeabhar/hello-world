@@ -1,0 +1,9 @@
+git add .
+(that's to add everything - can do singly, e.g. git add hello.txt)
+
+git commit -m "your message"
+
+git push
+
+
+git status
