@@ -5,5 +5,7 @@ git commit -m "your message"
 
 git push
 
+(can also use git pull - e.g. if someone else has updated the online git repository and you want to synchronise your computer with the online repository)
+
 
 git status
